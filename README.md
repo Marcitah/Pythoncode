@@ -5,16 +5,16 @@ This repository contains Jupyter noteboos used in the Data Analysis exercises in
 
 Exercises includes the following activities:
 
-** Use of Pandas dataframes **
+**Use of Pandas dataframes**
 
-** Data wrangling & subsetting**
+**Data wrangling & subsetting**
 
-** Data consistency checks**
+**Data consistency checks**
 
-** Combining and exporting data**
+**Combining and exporting data**
 
-** Deriving new variables**
+**Deriving new variables**
 
-** Grouping data and aggregating variables**
+**Grouping data and aggregating variables**
 
-** Data visualization in Python **
+**Data visualization in Python**
